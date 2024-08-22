@@ -32,3 +32,9 @@ Crypto-Currency App is an Android application that provides users with comprehen
 - Retrofit for Rest API integration
 - Room Database for Local Caching
 - Jetpack Navigation library for Navigation
+
+# Screenshot
+
+<img src="/ss/ss1.png" height="400px"/> <img src="/ss/ss2.png" height="400px"/>
+
+
